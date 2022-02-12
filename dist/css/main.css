@@ -500,7 +500,9 @@ img {
     #main-footer .footer-content {
       flex-direction: column;
       padding: 1rem;
-      height: 5rem; } }
+      height: 5rem; }
+  #idiot {
+    margin-left: 59px; } }
 
 @media (max-height: 580px) {
   #header-home .header-content {
