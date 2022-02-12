@@ -1,0 +1,32 @@
+#idiot{
+  width:17rem;
+  display:flex;
+  transition: all 1s ease-in;
+  color: #fff;
+  height:70px;
+  i{
+    margin-right:100px
+  }
+  h3{
+    font-size: 1.6rem;
+    margin-left: -6.3rem;
+    width:140px
+  }
+  .hmm{
+  // background-color: aquamarine;
+  text-transform: lowercase;
+  font-family: 'Great Vibes', cursive;
+  margin-top: 10px;
+  margin-left: -39px;
+  font-size: 1.8rem;
+  width:100px;
+  transform: rotate(-25deg);
+  }
+  &:hover{
+    color: $main-color;
+    cursor: pointer;
+  }
+}
+
+  
+

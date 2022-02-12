@@ -164,6 +164,30 @@ input[class^=btn-]:hover {
     opacity: 0.7;
     margin: 0; }
 
+#idiot {
+  width: 17rem;
+  display: flex;
+  transition: all 1s ease-in;
+  color: #fff;
+  height: 70px; }
+  #idiot i {
+    margin-right: 100px; }
+  #idiot h3 {
+    font-size: 1.6rem;
+    margin-left: -6.3rem;
+    width: 140px; }
+  #idiot .hmm {
+    text-transform: lowercase;
+    font-family: 'Great Vibes', cursive;
+    margin-top: 10px;
+    margin-left: -39px;
+    font-size: 1.8rem;
+    width: 100px;
+    transform: rotate(-25deg); }
+  #idiot:hover {
+    color: #ffbc00;
+    cursor: pointer; }
+
 * {
   margin: 0;
   padding: 0; }
@@ -225,7 +249,7 @@ img {
 
 #header-inner {
   background: url("../img/showcase.jpg") no-repeat 20% 30%/cover;
-  height: 5.5rem;
+  height: 5.6rem;
   border-bottom: 3px solid #ffbc00; }
 
 #home-a .specials {
@@ -425,7 +449,7 @@ img {
     border-right: none;
     padding: 0; } }
 
-@media (max-width: 500px) {
+@media (max-width: 640px) {
   #main-nav {
     flex-direction: column;
     align-items: center; }

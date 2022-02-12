@@ -1,6 +1,7 @@
 @import 'config';
 @import 'utilities';
 @import '_item_grid.scss';
+@import'mycreation';
 
 
 // general style
@@ -89,7 +90,7 @@ img{
   }
   &-inner{
     background: $bg-image no-repeat 20% 30% /cover;
-    height: 5.5rem;
+    height: 5.6rem;
     border-bottom: 3px solid $main-color;
   }
 }

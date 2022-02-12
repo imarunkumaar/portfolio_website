@@ -1,0 +1,17 @@
+#idiot {
+  width: 17rem;
+  display: flex; }
+  #idiot i {
+    margin-right: 100px; }
+  #idiot h3 {
+    font-size: 1.6rem;
+    margin-left: -6.3rem;
+    width: 140px; }
+  #idiot .hmm {
+    text-transform: lowercase;
+    font-family: 'Great Vibes', cursive;
+    margin-top: 10px;
+    margin-left: -39px;
+    font-size: 1.8rem;
+    width: 100px;
+    transform: rotate(-25deg); }
